@@ -1,0 +1,1 @@
+enum ViewModelState { loading, success, error }
